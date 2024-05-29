@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/matias-julian-martinez-a15599208/" target="blank">
 Matias Julian Martinez</a></h1>
-<h3 align="center">Diseño & Desarrollo Web en Argentina.</h3>
+<h3 align="center"> Web Design and Development in Argentina.</h3>
 
 
 <a target="_blank" align="center">
